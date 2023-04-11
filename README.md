@@ -38,6 +38,11 @@ Kinky Code is currently in a preliminary version without a release number.
 
 ### Sexual Preferences and Kinks
 
+### Examples
+
+* **AN (+-)/---** would mean:
+On Anal Penetration, as an active, I am indifferent and inexperienced, basically not interested. As a passive, I have a hard limit.
+
 ### Format
 
 * Active / Passive in the form of
@@ -51,10 +56,11 @@ Kinky Code is currently in a preliminary version without a release number.
 	* ! I want to try
 	* ? I don't know
 	* * I want to learn more
+    * (...) I have no or few experiences
 
 ### List
 
-* anal penetration
+* anal penetration (AN or ANP)
 * oral penetration
 * vaginal penetration
 * bondage with ropes
@@ -73,6 +79,22 @@ Kinky Code is currently in a preliminary version without a release number.
 * biting
 * impact play
 	* might be more detailed in a later version
+* role play
+    * there might be more detailed variants in later versions, e.g. ddlg ...
+* consensual non-consent 
+* ds
+* ...
+
+#### Mindset & Practices
+
+There are some mindsets that should be included for a kind of litmus test
+
+* SSC
+* RACK
+* No Alcohol when playing
+* Safer sex only
+* Safer sex, apart from primary partner
+regularly STI tested and aware
 * ...
 
 ## License
